@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/0d1bf410bd3224035784467282cfa3a5/transformed/material-1.6.1/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml" value="0.138" />
+        <entry key="../../.gradle/caches/transforms-3/0d1bf410bd3224035784467282cfa3a5/transformed/material-1.6.1/res/drawable/mtrl_dropdown_arrow.xml" value="0.138" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3072916666666667" />
+        <entry key="app/src/main/res/layout/fragment_city_search.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/layout/fragment_weather_details.xml" value="0.290625" />
+        <entry key="app/src/main/res/layout/fragment_weather_list.xml" value="0.290625" />
+        <entry key="app/src/main/res/layout/fragment_weather_search.xml" value="0.14883955600403634" />
+        <entry key="app/src/main/res/layout/row_item_weather.xml" value="0.2916666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
